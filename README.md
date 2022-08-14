@@ -9,7 +9,7 @@ In this project, we used HTML, CSS, and js.\
 ## Main features of the game
 * Timer
 * Counter of wrong guesses
-* Background music and sound for every move
+* Background music and sound effects for every move
 * Three game themes
 * Three levels of difficulty the user can choose from
 * "New game" button
